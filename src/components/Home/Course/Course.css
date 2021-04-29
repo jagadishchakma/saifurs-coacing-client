@@ -1,0 +1,95 @@
+.course .card-header {
+  text-align: center;
+  color: white;
+}
+.course .card {
+  position: relative;
+  margin-top: 50px;
+  cursor: auto;
+  transition: 1.5s;
+}
+.course .card:hover {
+  margin-top: -30px;
+}
+
+.course .card-body {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+.courses-headline {
+  text-align: center;
+  color: rgb(241, 8, 105);
+  font-size: 35px;
+  margin: 50px 10px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.course .psc .card-header {
+  background-color: rgb(42, 163, 42);
+}
+.course .jsc .card-header {
+  background-color: rgb(163, 161, 42);
+}
+
+.course .ssc .card-header {
+  background-color: rgb(163, 42, 88);
+}
+.course .hsc .card-header {
+  background-color: rgb(42, 90, 163);
+}
+
+.course ul {
+  margin-left: -30px;
+}
+.course ul li {
+  list-style: none;
+  border-bottom: 1px solid gray;
+  padding: 10px 0;
+}
+.course ul li .icon {
+  margin-right: 10px;
+}
+.course .hsc .icon,
+.course-price {
+  color: rgb(42, 90, 163);
+}
+
+.course .psc .icon,
+.course .psc .course-price {
+  color: rgb(42, 163, 42);
+}
+.course .jsc .icon,
+.course .jsc .course-price {
+  color: rgb(163, 161, 42);
+}
+
+.course .ssc .icon,
+.course .ssc .course-price {
+  color: rgb(163, 42, 88);
+}
+
+.course .hsc .icon,
+.course .hsc .course-price {
+  color: rgb(42, 90, 163);
+}
+
+.course .spacial {
+  box-shadow: 0px 0px 2px 2px rgb(216, 214, 214);
+  position: relative;
+  top: -20px;
+  z-index: 50px;
+}
+.service-list ul li {
+  color: rgb(128, 128, 128);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.course-price .tk-sign {
+  font-size: 3rem;
+}
+
+/* Default */
+.course .default .card-header {
+  background-color: rgb(42, 90, 163);
+}
+.course .default .icon {
+  color: rgb(42, 90, 163);
+}

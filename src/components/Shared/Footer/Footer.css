@@ -1,0 +1,41 @@
+.footer {
+  background-image: linear-gradient(
+    rgb(36, 29, 41),
+    rgb(28, 24, 32),
+    rgb(25, 23, 29)
+  );
+  padding: 20px;
+}
+.footer .top-foo {
+  border-bottom: 2px solid gray;
+  padding: 20px 0;
+}
+.footer .top-foo p {
+  color: white;
+}
+
+.footer .copyright {
+  padding: 50px 0;
+  color: white;
+}
+.footer .top-foo h2 {
+  color: white;
+}
+.footer .top-foo ul {
+  margin-left: -35px;
+}
+
+.footer .top-foo ul li {
+  list-style-type: none;
+  line-height: 2;
+}
+
+.footer .top-foo ul li a {
+  text-decoration: none;
+  color: white;
+}
+.footer .top-foo .social-icon li {
+  float: left;
+  padding-left: 15px;
+  font-size: 25px;
+}

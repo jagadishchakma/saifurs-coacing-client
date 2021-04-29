@@ -1,0 +1,24 @@
+.reviews {
+  padding: 50px 10px;
+}
+.carousel-container {
+  padding: 20px 0px;
+}
+.review {
+  margin: 5px;
+  padding: 10px;
+  text-align: justify;
+  border: 1px solid red;
+}
+.reviews h2 {
+  text-align: center;
+  padding: 50px 0;
+}
+.review .user {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.review .user .user-name {
+  padding-left: 20px;
+}

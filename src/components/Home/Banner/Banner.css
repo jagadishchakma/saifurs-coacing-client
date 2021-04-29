@@ -1,0 +1,43 @@
+.banner {
+  border-radius: 10px;
+  background-color: rgb(243, 243, 243);
+  margin-top: 90px;
+  padding: 40px;
+}
+.curiculom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.curiculom div {
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+  font-size: 30px;
+  border-radius: 50%;
+}
+.curiculom .psc {
+  background-color: greenyellow;
+}
+.curiculom .jsc {
+  background-color: rgb(255, 200, 47);
+}
+.curiculom .ssc {
+  background-color: rgb(47, 61, 255);
+}
+.curiculom .hsc {
+  background-color: rgb(196, 47, 255);
+}
+.banner .enroll {
+  text-align: center;
+  margin: 40px auto 0 auto;
+  display: block;
+  font-size: 35px;
+}
+.banner h2 {
+  margin-bottom: 50px;
+}
+.banner .brand-text {
+  color: rgb(67, 192, 9);
+}

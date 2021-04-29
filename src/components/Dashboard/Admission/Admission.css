@@ -1,0 +1,14 @@
+.pay-p p {
+  background-color: white;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
+.admission {
+  background-color: rgb(225, 231, 227);
+}
+.card-pay {
+  background-color: white;
+  padding: 20px 10px;
+  font-size: 18px;
+  width: 500px;
+}

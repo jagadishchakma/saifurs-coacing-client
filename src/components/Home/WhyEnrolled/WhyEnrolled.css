@@ -1,0 +1,43 @@
+.why-enrolled {
+  padding: 50px 10px;
+}
+.why-enrolled h2 {
+  text-align: center;
+  color: rgb(153, 86, 31);
+  padding: 50px 0;
+  font-size: 40px;
+}
+.effective {
+  box-shadow: 0px 0px 2px 2px rgb(233, 240, 243);
+  text-align: justify;
+  padding: 10px;
+  margin-top: 50px;
+}
+.support {
+  box-shadow: 0px 0px 2px 2px rgb(227, 250, 227);
+  text-align: justify;
+  padding: 10px;
+  margin-top: 50px;
+}
+.gpa {
+  box-shadow: 0px 0px 2px 2px rgb(236, 238, 230);
+  text-align: justify;
+  padding: 10px;
+  margin-top: 50px;
+}
+.effective-header {
+  text-align: center;
+  color: rgb(165, 21, 129);
+  font-size: 30px;
+}
+.support-header {
+  text-align: center;
+  color: rgb(11, 133, 76);
+  font-size: 30px;
+}
+
+.gpa-header {
+  text-align: center;
+  color: rgb(165, 65, 26);
+  font-size: 30px;
+}

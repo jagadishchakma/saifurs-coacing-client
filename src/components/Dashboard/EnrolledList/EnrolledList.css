@@ -1,0 +1,12 @@
+.done {
+  color: green;
+  border-color: green;
+}
+.going {
+  color: blue;
+  border-color: blue;
+}
+.pending {
+  color: red;
+  border-color: red;
+}

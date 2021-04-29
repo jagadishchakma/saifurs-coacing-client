@@ -1,0 +1,26 @@
+.header {
+  background-color: white;
+}
+.header .nav-link {
+  color: rgb(49, 48, 48) !important;
+  font-weight: 400;
+  font-family: Montserrat;
+  margin-left: 5px;
+  padding-left: 5px;
+  font-size: 20px;
+}
+.header .classroom {
+  background-color: coral;
+  border-radius: 5px;
+  color: white !important;
+}
+.header .classroom:hover {
+  background-color: rgb(231, 225, 222);
+  border-radius: 5px;
+  color: rgb(212, 7, 7) !important;
+}
+
+.header .nav-link:hover {
+  border-radius: 5px;
+  color: red !important;
+}

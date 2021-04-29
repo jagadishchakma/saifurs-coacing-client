@@ -1,0 +1,26 @@
+.done {
+  color: green;
+  border: 1px solid green;
+}
+.going {
+  color: blue;
+  border: 1px solid blue;
+}
+.pending {
+  color: red;
+  border: 1px solid red;
+}
+.admissin-list {
+  box-shadow: 0px 0px 2px 2px gray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.admissin-list h3 {
+  border-radius: 5px;
+  padding: 5px;
+  background-color: honeydew;
+}
